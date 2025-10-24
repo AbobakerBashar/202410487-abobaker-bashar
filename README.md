@@ -5,6 +5,7 @@
  Location: kigali, Rwanda
  Email: bakorybashar@gmail.com
  Phone: +250 794758326
+ Assignments Link: https://github.com/AbobakerBashar/202410487/tree/main/git
  Linkedin:www.linkedin.com/in/abobaker-yagoub-bashar-628452312
  Vercel: [www.linkedin.com/in/abobaker-yagoub-bashar-628452312](https://vercel.com/abobakerbashars-projects)
 
